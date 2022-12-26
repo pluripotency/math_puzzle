@@ -1,0 +1,11 @@
+{
+  "name": "math_puzzle",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [],
+  "author": "Masayoshi Kokuryo",
+  "license": "MIT",
+  "dependencies": {
+    "coffeescript": "^2.7.0"
+  }
+}

@@ -1,0 +1,7 @@
+js/
+.cache
+.idea
+node_modules
+dist/index.js*
+!static
+!images
